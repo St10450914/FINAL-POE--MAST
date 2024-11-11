@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Fries",
+        "Description": "Potatoes chopped and deep fried.",
+        "Price": 200,
+        "selectedOption": "STARTER"
+      },
+    {
+      "Name": "Spaghetti Bolognese",
+      "Description": "A classic Italian pasta dish with a rich tomato and meat sauce.",
+      "Price": 80,
+      "selectedOption": "MAIN"
+    },
+    {
+      "Name": "Caesar Salad",
+      "Description": "Fresh romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.",
+      "Price": 50,
+      "selectedOption": "STARTER"
+    },
+    {
+      "Name": "Chocolate Cake",
+      "Description": "A decadent dessert with layers of rich chocolate and cream.",
+      "Price": 65,
+      "selectedOption": "DESSERT"
+    },
+    {
+        "Name": "French Onion Soup",
+        "Description": "A rich and flavorful soup topped with a slice of toasted bread and melted cheese.",
+        "Price": 45,
+        "selectedOption": "STARTER"
+      },
+      {
+        "Name": "Chicken Alfredo Pasta",
+        "Description": "Creamy Alfredo sauce with grilled chicken served over fettuccine pasta.",
+        "Price": 95,
+        "selectedOption": "MAIN"
+      },
+      {
+        "Name": "Lemon Tart",
+        "Description": "A tangy lemon custard in a crisp pastry shell, topped with whipped cream.",
+        "Price": 50,
+        "selectedOption": "DESSERT"
+      },
+      {
+        "Name": "Bruschetta",
+        "Description": "Grilled bread topped with a fresh mixture of tomatoes, basil, and mozzarella.",
+        "Price": 35,
+        "selectedOption": "STARTER"
+      },
+      {
+        "Name": "Beef Lasagna",
+        "Description": "Layers of pasta, ground beef, tomato sauce, and melted cheese.",
+        "Price": 100,
+        "selectedOption": "MAIN"
+      }
+  ]
+  
